@@ -1,0 +1,12 @@
+MAFIA MASTER - GITHUB PAGES SI ADMOB
+
+1. Creeaza un repository public NOU pe GitHub numit exact robertmafia05.github.io, separat de mafia-master (codul Flutter).
+2. Deschide noul repository -> Add file -> Upload files. Urca fisierele direct la radacina (index.html, style.css, privacy.html, .nojekyll). Daca folosesti ZIP-ul, extrage-l INAINTE de incarcare; nu incarca ZIP-ul ca atare.
+3. In repository -> Settings -> Pages -> Source Deploy from a branch -> Branch main -> Folder /(root) -> Save.
+4. Verifica dupa publicare https://robertmafia05.github.io/ si https://robertmafia05.github.io/privacy.html.
+5. Pentru app-ads.txt: in AdMob copiaza intregul fragment de autorizare furnizat pentru contul tau; creeaza un fisier app-ads.txt la radacina repository-ului si lipeste fragmentul. NU publica app-ads.txt.EXEMPLU in locul acestuia.
+6. Verifica https://robertmafia05.github.io/app-ads.txt: trebuie sa arate textul furnizat de AdMob, fara eroare 404.
+7. Pune URL-ul https://robertmafia05.github.io/ in Google Play Console la site-ul dezvoltatorului din Store settings -> Store listing contact details.
+8. In AdMob verifica starea app-ads.txt, solicita Check for updates daca este disponibil, asteapta cel putin 24h dupa modificari. Nu presupune ca verificarea va reusi automat: unele configuratii de hosting pe subdomeniu pot necesita domeniu propriu.
+9. PRIVACY: privacy.html este un DRAFT, NU o politica finala. Cere-i lui Codex auditul codului, APK-ului oficial si SDK-urilor, apoi completeaza operatorul, emailul, data, colectarea de date si toate sectiunile [DE COMPLETAT]/[DE VERIFICAT]. Elimina bannerul de draft si meta robots=noindex numai dupa revizuire. Abia atunci pune linkul in Google Play.
+10. Nu urca parole, tokenuri, chei private sau alte date secrete pe GitHub Pages. Confirma licenta de folosire comerciala pentru resursele audio si grafice.
